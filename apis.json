@@ -1,0 +1,63 @@
+{
+    "name": "Bing Maps",
+    "description": "<p><span>The Bing Maps Dev Center provides the tools and resources you need to develop with Bing Maps. You can store, access, and keep track of your store locations or other spatial data through our online data source management system. You will also receive important announcements around your Bing Maps accou<\/span><\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Bing_Maps_blue20logo.jpg",
+    "tags": [
+        "api provider",
+        "directions",
+        "geo",
+        "have api",
+        "maps",
+        "search",
+        "static",
+        "traffic",
+        "translations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bing-maps\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Bing",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Bing_Maps_blue20logo.jpg",
+            "humanURL": "https:\/\/www.bingmapsportal.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bing-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blogs.msdn.com\/b\/bingdevcenter\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blogs.msdn.com\/b\/bingdevcenter\/rss.aspx"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/bing-maps"
+        },
+        {
+            "type": "Licensing",
+            "url": "https:\/\/www.microsoft.com\/maps\/Licensing\/licensing.aspx"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/bingmaps"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.bingmapsportal.com\/"
+        }
+    ]
+}
