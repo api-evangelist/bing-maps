@@ -1,0 +1,16 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "version": "",
+        "title": "Bing",
+        "description": "The Bing Search API enables developers to embed search results in applications.",
+        "termsOfService": ""
+    },
+    "servers": [
+        ""
+    ],
+    "paths": [],
+    "components": {
+        "schemas": []
+    }
+}
