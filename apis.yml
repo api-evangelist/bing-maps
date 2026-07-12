@@ -23,6 +23,12 @@ apis:
       - type: Documentation
         url: https://www.microsoft.com/maps/
 common:
+  - type: TrustCenter
+    url: security/bing-maps-trust-center.yml
+  - type: VulnerabilityDisclosure
+    url: security/bing-maps-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/bing-maps-domain-security.yml
   - type: Website
     url: https://www.microsoft.com/maps/
   - type: PublicAPIsListing
