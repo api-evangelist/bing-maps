@@ -40,7 +40,6 @@ apis:
   - name: Bing Maps
     description: "Create/customize digital maps based on Bing Maps data"
     humanURL: https://www.microsoft.com/maps/
-    baseURL: https://www.microsoft.com/maps/
     tags:
       - Geocoding
     properties:
